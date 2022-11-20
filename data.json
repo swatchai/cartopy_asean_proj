@@ -1,46 +1,46 @@
 {
-    nodes: [
-    { data: { id: 'a' } },
-    { data: { id: 'b' } },
-    { data: { id: 'c' } },
-    { data: { id: 'd' } },
-    { data: { id: 'e' } },
-    { data: { id: 'f' } },
+    "nodes": [
+    { "data": { "id": 'a' } },
+    { "data": { "id": 'b' } },
+    { "data": { "id": 'c' } },
+    { "data": { "id": 'd' } },
+    { "data": { "id": 'e' } },
+    { "data": { "id": 'f' } },
     ],
-    edges: [
+    "edges": [
     {
-      data: {
-        id: 'ab',
-        source: 'a',
-        target: 'b'
+      "data": {
+        "id": 'ab',
+        "source": 'a',
+        "source": 'b'
       }
     },
     {
-      data: {
-        id: 'cd',
-        source: 'c',
-        target: 'd'
+      "data": {
+        "id": 'cd',
+        "source": 'c',
+        "source": 'd'
       }
     },
     {
-      data: {
-        id: 'ef',
-        source: 'e',
-        target: 'f'
+      "data": {
+        "id": 'ef',
+        "source": 'e',
+        "source": 'f'
       }
     },
     {
-      data: {
-        id: 'ac',
-        source: 'a',
-        target: 'd'
+      "data": {
+        "id": 'ac',
+        "source": 'a',
+        "source": 'd'
       }
     },
     {
-      data: {
-        id: 'be',
-        source: 'b',
-        target: 'e'
+      "data": {
+        "id": 'be',
+        "source": 'b',
+        "source": 'e'
       }
     }
   ]
