@@ -12,35 +12,35 @@
       "data": {
         "id": 'ab',
         "source": 'a',
-        "source": 'b'
+        "target": 'b'
       }
     },
     {
       "data": {
         "id": 'cd',
         "source": 'c',
-        "source": 'd'
+        "target": 'd'
       }
     },
     {
       "data": {
         "id": 'ef',
         "source": 'e',
-        "source": 'f'
+        "target": 'f'
       }
     },
     {
       "data": {
         "id": 'ac',
         "source": 'a',
-        "source": 'd'
+        "target": 'd'
       }
     },
     {
       "data": {
         "id": 'be',
         "source": 'b',
-        "source": 'e'
+        "target": 'e'
       }
     }
   ]
